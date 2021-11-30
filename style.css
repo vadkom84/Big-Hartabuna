@@ -1,0 +1,30 @@
+img {
+	 width:300PX;img 
+     border-radius: 8px;
+}img {
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 50px;
+  width: 300px;
+}
+
+<img src="Barsik.webp" alt="Barsik">
+
+	 
+body{
+	background-color: #AFEEEE;
+	font-family:Arial;
+}
+.red{
+	color:red;
+	
+}
+.big_font{
+	font-size:30px
+}
+#spacialstyle{
+	background-color:yellow;
+	border:2px solid red;
+	width:50%;
+	
+}
